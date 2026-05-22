@@ -1,0 +1,23 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# Python
+venv/
+_pycache_/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Logs
+*.log

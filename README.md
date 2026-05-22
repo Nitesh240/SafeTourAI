@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tourist_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Tourist-safety-app
+>>>>>>> 3dc6773d8f21a5ea8bb3db474318903c3a5696da
